@@ -7,4 +7,3 @@ tulo = Luku1 * Luku2 * Luku3
 print("Tulo on: ", tulo)
 keskiarvo = summa / 3
 print("Keskiarvo on: ", keskiarvo)
-
