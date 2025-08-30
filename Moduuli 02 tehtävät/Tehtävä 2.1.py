@@ -1,3 +1,3 @@
-nimi = input("Kerro nimesi")
+nimi = input("Kerro nimesi: ")
 print("Tervehdys,", nimi)
 
